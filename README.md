@@ -9,7 +9,7 @@ Welcome to the official GitHub profile of the **Media Wing of AL BAYAN OSF**! We
 - 👀 **I’m interested in** promoting awareness and engagement with our community through innovative digital solutions.
 - 🌱 **I’m currently learning** how to enhance our Progressive Web App (PWA) capabilities and integrate more interactive features.
 - 💞️ **I’m looking to collaborate on** projects that involve web development, community outreach, and content creation.
-- 📫 **How to reach me:** Connect with us through our social media platforms or check out our website [here](https://sites.google.com/view/albayanosfmediawing).
+- 📫 How to reach me: Connect with us through our social media platforms, or send us an email at mediawing.albayanosf@gmail.com. You can also visit our website [here](https://sites.google.com/view/albayanosfmediawing).
 - 😄 **Pronouns:** We are a diverse team; feel free to refer to us as "they/them."
 - ⚡ **Fun fact:** Our PWA project is designed to bring our community updates even when you are offline!
 
